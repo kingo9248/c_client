@@ -1,0 +1,262 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sahbaj Sarder</title>
+    <!-- google font lin -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Sans&family=Montserrat&family=Satisfy&display=swap" rel="stylesheet">
+    <!-- css for mobile -->
+    <link rel="stylesheet" href="css/mob.css">
+    <!-- css for desktop -->
+    <link rel="stylesheet" href="css/desk.css" media="screen and (min-width: 992px)">
+    <!-- font awesome cdn -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <!-- bootstrap cdn -->
+     <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">  -->
+  </head>
+  <body>
+
+    <!-- navbar starts from here -->
+    <div class="navbar">
+      <div class="nav-logo  col-2">
+        <img class="imge" src="css/p/logo.png" alt="logo">
+      </div>
+      <div class="nav-heading col-4">
+        <h1>Sahbaj Sarder</h1>
+      </div>
+      <div class="nav-menu col-6">
+        <a class="text-white " href="#">Home</a>
+        <a class="text-white " href="#about-me-id">About me</a>
+        <a class="text-white " href="#contact-id">Contact me</a>
+        <a class="text-white " href="#skill-id">Skills</a>
+      </div>
+    </div>
+   <!-- nav bar ends her  -->
+
+   <!-- profile starts here -->
+
+
+   <div class="profile">
+     <img class="imge top-weather-icon" src="css/p/w.png" alt="#">
+     <div class="profile-desk">
+       <h1>I am a Student of <br> Daffodil International University <br> & <br> a web devolper </h1>
+       <p>I am Sahbaj Sarder. I am a Software Engineering student of Diu. Welcome to my personal portfolio</p>
+     </div>
+     <img class="imge bottom-weather-icon" src="css/p/w.png" alt="#">
+
+
+   </div>
+
+ <!-- profile ends her -->
+
+  <!-- About me starts here -->
+  <div class="about-me" id="about-me-id">
+    <h2>ABOUT ME</h2>
+    <hr class="dotted-hr">
+<div class="row">
+
+     <div class="col-6">
+       <img class="aboutme-image" src="css/p/kk.jpg" alt="">
+     </div>
+    <div class="aboutme-desc col-6">
+      <p>I am a web devolper and a passonate student of software Engineering. Full of ideas and executing nothing</p>
+      <p>Currently I am doing nothing and planning to do big things. just planning</p>
+      <hr class="aboutme-hr">
+      <p>Name : Sahbaj Sarder</p>
+      <hr class="aboutme-hr">
+      <p>Address: Muksudpur,goplganj</p>
+      <hr class="aboutme-hr">
+      <p>Email: <a href="mailto:sahbaj35-431@diu.edu.bd">sahbaj35-431@diu.edu.bd</a> </p>
+      <hr class="aboutme-hr">
+      <p>Phone: <a href="tel:+8801777279953">+8801777279953</a> </p>
+      <hr class="aboutme-hr">
+      <p>Facebook: <a href="https://www.facebook.com/Kingormcf/" target="_blank">Facebook</a> </p>
+      <p>
+        <a target="_blank" href="#"> <button class="cv-button" type="button" name="button">Download CV</button> </a>
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
+
+  <!-- About me ends here -->
+
+<!-- professional experience starts here -->
+
+<div class="p-exp row">
+  <div class="w-exp col-4">
+    <div class="card">
+      <div class="card-icon">
+        <img src="css/p/work.png" alt="">
+      </div>
+      <div class="card-title">
+        <h2>WORK EXPERIENCE</h2>
+      </div>
+      <div class="card-desc">
+        <ol>
+          <li> <strong>Front end Devoloper</strong> <br>
+            started working as a web desginer and learner from march 2021
+            still learning many things <br> and almost have mastered html and css
+            Currently learning JS.
+            <hr>
+          </li>
+          <li> <strong>Backend devolper</strong><br>
+            haven't started yet but will learn very soon PHP fully <br>
+            now I am beginner of PHP
+            <hr>
+
+          </li>
+          <li> <strong>Student of SWE department in Daffodil</strong>
+            student of Daffodil International University Since january, 2019.<br>
+            I have studying hard and focusing on my study.
+          </li> <hr>
+
+        </ol>
+      </div>
+    </div>
+  </div>
+  <div class="education col-4">
+    <div class="card">
+      <div class="card-icon">
+        <img src="css/p/edu.png" alt="">
+      </div>
+      <div class="card-title">
+        <h2>Education</h2>
+      </div>
+      <div class="card-desc">
+        <ol>
+          <li> <strong> Student OF Daffodil International University
+          </strong>
+          I've Been studying Software Engineering Since january 2019 <br>
+          I am very passonate about my study and the skiils I am <br> learning.
+          I have learnt many things from my teachers. <hr>
+          </li>
+          <li> <strong>I have completed a web design course from 10 minute school</strong>
+            I have been learning web design since the very beginning of my student <br>
+            life. I have been working hard to get to my best to achieve my <br> goals.
+          </li><hr>
+          <li>  <strong>Early Student life</strong>
+            I have completed my primary and higher secondary from my native <br>
+            school and colleges.
+          </li><hr>
+        </ol>
+
+
+      </div>
+    </div>
+  </div>
+  <div class="skills col-4" id="skill-id">
+    <div class="card">
+      <div class="card-icon">
+        <img src="css/p/skill.png" alt="">
+      </div>
+      <div class="card-title">
+        <h2>skills</h2>
+      </div>
+      <div class="card-desc">
+        <div class="skill-container">
+          <ul>
+            <li class="html">HTML</li>
+            <li class="css">CSS</li>
+            <li class="js">JS</li>
+            <li class="bs">Bootstrap</li>
+            <li class="php">PHP</li>
+            <li class="gh">Github</li>
+            <li class="python">Python</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- professional experience ends here  -->
+
+<!-- achievement contact sectioin starts -->
+
+<div class="row">
+  <div class="ac">
+    <div class="achievement col-4">
+      <h2>ACHIEVEMENT</h2>
+      <hr class="dotted-hr">
+      <p>1. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..</p>
+      <p>2. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+      <p>3. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>4. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      </div>
+    <div class="contact col-4" id="contact-id">
+      <h2>CONTACT ME</h2> <hr class="dotted-hr">
+      <form class="form" action="mailto:sahbaj35-431@diu.edu.bd" method="post" enctype="text/plain">
+        <p> <input type="text" placeholder="Your Name" name="Name" > </p>
+        <p> <input type="text" placeholder="Your Email" name="Email" > </p>
+        <textarea name="Message" id="" rows="10" cols="30" placeholder="Your message here"></textarea>
+        <div class="buttonn">
+          <button type="submit" name="Send">SEND</button>
+          <button type="reset" name="Send">RESET</button>
+        </div>
+
+      </form>
+    </div>
+    <div class="con-link col-4">
+      <h2>MORE WAYS TO CONTACT</h2>
+      <hr class="dotted-hr">
+      <div class="media-button">
+        <button class="btn" onclick="window.open('https://www.facebook.com/Kingormcf/')" class="request-callback" type="button" name="button" style="color: #3359A5"><i class="fa fa-facebook" aria-hidden="true"></i></button>
+        <button class="btn" onclick="window.open('https://studio.youtube.com/channel/UCggKmUtm6NXwNffjm07LkOw/videos/upload?filter=%5B%5D&sort=%7B%22columnType%22%3A%22date%22%2C%22sortOrder%22%3A%22DESCENDING%22%7D')" class="request-callback" type="button" name="button" style="color: #c4302b"><i class="fa fa-youtube-play" aria-hidden="true"></i></button>
+          <button class="btn" onclick="window.open('https://www.instagram.com/being_kingkong/')" class="request-callback" type="button" name="button" style="color: #CD395E"><i class="fa fa-instagram" aria-hidden="true"></i></button>
+          <button class="btn" onclick="window.open('https://www.linkedin.com/in/sahbaj-sarder-b19530190/')" class="request-callback" type="button" name="button" style="color: #2765AC"><i class="fa fa-linkedin" aria-hidden="true"></i></button>
+          <button class="btn" onclick="window.open('#')" class="request-callback" type="button" name="button" style="color: #1C9CEA"><i class="fa fa-twitter-square" aria-hidden="true"></i></button>
+          <button class="btn" onclick="window.open('#')" class="request-callback" type="button" name="button" style="color: #1C9CEA"><i class="fa fa-skype" aria-hidden="true"></i></button>
+
+
+      </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+<!-- achievement contact section ends here -->
+
+<!-- footer starts from here -->
+
+<div class="footer">
+  <div class="row">
+    <div class="footer-menue col-6">
+      <a class="text-white " href="#">Home</a>
+      <a class="text-white " href="#about-me-id">About me</a>
+      <a class="text-white " href="#contact-id">Contact me</a>
+      <a class="text-white " href="#skill-id">Skills</a>
+    </div>
+    <div class="footer-desc col-6">
+      &copy; SAHBAJ 2021. Devoloped with <span  style="color: red; font-size:1.5rem">&#9829;</span> and passion.
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+
+
+<!-- footer ends here -->
+
+
+    <!-- <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+   -->
+   </body>
+</html>
